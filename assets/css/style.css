@@ -38,7 +38,10 @@
   --lrsidecol: rgba(56, 62, 101,1);
   --middlecol: rgba(98, 135, 248,1);
 
-  --gradient-1: linear-gradient(90deg,var(--lrsidecol) 0,var(--middlecol) 51%,var(--lrsidecol));/*TOP BG & Features Card Icon & Footer Top Gradient Colour*/
+  --newsides: rgb(65, 105, 225);
+  --newmiddle: rgb(43, 100, 255);
+
+  --gradient-1: linear-gradient(90deg,var(--newsides) 0,var(--newmiddle) 51%,var(--newsides));/*TOP BG & Features Card Icon & Footer Top Gradient Colour*/
   --gradient-2: linear-gradient(90deg,var(--razzmatazz) ,var(--rajah));/*Get A Quote & Learm More Button Gradient Colour*/
 
   /**
